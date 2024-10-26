@@ -43,5 +43,14 @@ This project aims to detect spam messages using machine learning techniques, wit
 - Incorporate additional features, such as user metadata, to enhance model predictions.
 - Improve the dataset by collecting more labeled examples to ensure robustness.
 
+## Installation
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ArSravan/Spam_Detection_Project.git
+   cd Spam_Detection_Project
+   pip install pandas scikit-learn nltk
+
 
 
